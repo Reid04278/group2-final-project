@@ -25,22 +25,22 @@ https://www.kaggle.com/datasets/yasserh/walmart-dataset
 ## Process
 1. Import Dependencies
 2. Data Gathering:
-Access the data source and extract CSV files
+Access the data source and extract CSV files. 
 3. Backend Development:
-Clean the data of missing values and unnecessary information
-Extract the date from the dataframe
+Clean the data of missing values and unnecessary information.
+Extract the date from the dataframe. 
 4. Preprocessing Methods:
-StandardScaler
-Get target and features arrays 'Weekly_Sales'
-Split into testing and training sets
+Implement StandardScaler. 
+Get target and features arrays 'Weekly_Sales'. 
+Split into testing and training sets. 
 6. Visualizations:
-(Line Chart, Correlation Matrix, Linear Regression) to help tell a story
+(Line Chart, Correlation Matrix, Linear Regression) to help tell a story. 
 7. Frontend Development:
-Run XGBoost
-Train the regression model 
+Run XGBoost. 
+Train the regression model. 
 8. User Interaction:
-Aggregate based on the week 'Weekly_Sales', 'Sales_predicted'
-Calculate r2 score on test data and compare to r2 score on training data
+Aggregate based on the week 'Weekly_Sales', 'Sales_predicted'. 
+Calculate r2 score on test data and compare to r2 score on training data. 
 
 ## Credits
 - [Nicole](https://github.com/Nicolemarie717) 
