@@ -7,10 +7,10 @@ testing and training sets. We then created our first XGBoost model. We got an r-
 Even though our r-squared score was over 0.80, we still optimized the model to see if we can get a higher score.
 
 ## Libraries to install
-Pandas - Conda install Pandas
-MatPlotLib - Conda install matplotlib
-Scikit-learn - Conda install scikit-learn
-XGBoost - pip install xgboost
+- Pandas - Conda install Pandas
+- MatPlotLib - Conda install matplotlib
+- Scikit-learn - Conda install scikit-learn
+- XGBoost - pip install xgboost
 
 ## Data Source
 https://www.kaggle.com/datasets/yasserh/walmart-dataset
