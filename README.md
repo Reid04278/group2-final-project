@@ -12,6 +12,11 @@ MatPlotLib - Conda install matplotlib
 Scikit-learn - Conda install scikit-learn
 XGBoost - pip install xgboost
 
+- Pandas - Conda install Pandas
+- MatPlotLib - Conda install matplotlib
+- Scikit-learn - Conda install scikit-learn
+- XGBoost - pip install xgboost
+
 ## Data Source
 https://www.kaggle.com/datasets/yasserh/walmart-dataset
 
